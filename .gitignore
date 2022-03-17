@@ -1,0 +1,7 @@
+# Don't track content of these folder
+
+#ignore all .png files
+*.png
+
+#ignore all files in any directory named Vi
+Vi/
